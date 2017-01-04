@@ -1,9 +1,8 @@
-package info.devbug.srp;
+package info.devbug.solid.srp;
 
 import java.util.Comparator;
 import java.util.Hashtable;
 import java.util.Map;
-import java.util.Objects;
 
 /**
  * @author Aliaksei Bahdanau.

@@ -1,13 +1,13 @@
-package info.devbug.srp;
+package info.devbug.solid.srp;
 
 /**
  * @author Aliaksei Bahdanau.
  */
-public class Square implements Shape
+public class Circle implements Shape
 {
 	public void draw()
 	{
-		System.out.println("Draw Square");
+		System.out.println("Draw Circle");
 	}
 
 	public int compareTo(Object o)

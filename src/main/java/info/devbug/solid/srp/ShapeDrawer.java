@@ -1,7 +1,6 @@
-package info.devbug.srp;
+package info.devbug.solid.srp;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 /**

@@ -1,4 +1,4 @@
-package info.devbug.srp;
+package info.devbug.solid.srp;
 
 /**
  * @author Aliaksei Bahdanau.
